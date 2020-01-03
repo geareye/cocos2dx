@@ -1,0 +1,8 @@
+Executable : C:\Users\Synaptics\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+--build
+C:\Users\Synaptics\ProjectEpic\proj.android\app\.cxx\cmake\debug\armeabi-v7a
+--target
+MyGame
+jvmArgs : 
+
